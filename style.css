@@ -10,7 +10,7 @@ body {
 h1 {
 	color: #FF5883;
 	font-family: Roboto Mono, monospace;
-	font-size: 32px
+	font-size: 32px;
 }
 
 h2 {
@@ -66,12 +66,12 @@ a:hover {
 	padding-left: 0px;
 }
 
-.list-inline li{
+.list-inline li {
 	display: inline;
 	padding: 10px;
 }
 
-#intro p{
+#intro p {
 	margin-bottom: 40px;
 }
 
